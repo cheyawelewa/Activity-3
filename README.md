@@ -3,6 +3,7 @@
 1	Use Big O Notation to describe the time complexity of an algorithm that takes 4N+16 steps . - 1 pt
 
 The time complexity is 0(N) because 4 and 16.
+
 2 Use Big O Notation to describe the time complexity of an algorithm that takes 2N2  . 1 pt
 
 For 2N^2  N^2 is is the dominant term so the 2 is dropped and the time complexity is 0(N^2).
